@@ -1,4 +1,4 @@
-# Model-TG
+# Model-TG + variable playback speed in slice mode
 
 **Unofficial firmware additions for the Elektron Model:Cycles (OS 1.13):
 a full Sampler machine, resampling, beat-repeat with master FX, and more.**
